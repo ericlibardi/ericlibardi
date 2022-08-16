@@ -1,6 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hey there 👋 </h1>
 
-<!--
+<h2 align="center"> Welcome to my profile </h2>
+
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
+
 **ericlibardi/ericlibardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 You can reach me on: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ericlibardi/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
