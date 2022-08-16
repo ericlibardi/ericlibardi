@@ -1,15 +1,11 @@
-<h1 align="center">Hey there 👋</h1>
-<h3 align="center">My name is Eric Pereira, a passionate developer and tech enthusiast</h3>
+<h1 align="center">Hey there 👋 .... this is Eric Pereira</h1>
+<h3 align="center">I´m a passionate developer and tech enthusiast</h3>
 
 - 🔭 I’m currently looking for the next big thing ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java/ Javascript
 - 🤔 I’m looking for help with ...
-- 📫 You can reach me on: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ericlibardi/)
 - 😄 Check my CV <a href="https://github.com/ericlibardi/ericlibardi/blob/main/CV%20Eric%20Pereira%20-%20Dev.pdf" title="here">here</a>
-- ⚡ Fun fact: ...
-
-- 📫 How to reach me **eric_pereira04@hotmail.com**
+- ⚡ Fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
