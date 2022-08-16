@@ -1,11 +1,10 @@
 <h1 align="center">Hey there 👋 .... this is Eric Pereira</h1>
 <h3 align="center">I´m a passionate developer and tech enthusiast</h3>
 
-- 🔭 I’m currently looking for the next big thing ...
+- 🔭 I’m currently looking for my next big challenge...
 - 🌱 I’m currently learning Java/ Javascript
-- 🤔 I’m looking for help with ...
 - 😄 Check my CV <a href="https://github.com/ericlibardi/ericlibardi/blob/main/CV%20Eric%20Pereira%20-%20Dev.pdf" title="here">here</a>
-- ⚡ Fun fact
+- 📫 Reach me out on: eric_pereira04@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
