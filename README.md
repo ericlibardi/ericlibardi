@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my next big challenge...
 - 🌱 I’m currently learning Java/ Javascript
-- 😄 Check my CV <a href="https://github.com/ericlibardi/ericlibardi/blob/main/CV%20Eric%20Pereira%20-%20Dev.pdf" title="here">here</a>
+- 😄 Check my CV <a href="https://github.com/ericlibardi/ericlibardi/blob/main/CV%20Eric%20Pereira%20-%20Dev.pdf" title="CV Eric Pereira">here</a>
 - 📫 Reach me out on: eric_pereira04@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
