@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a FrontEnd Developer...
 - 🌱 I’m currently learning Javascript/ Typescript with Angular
-- 😄 Check my CV <a href="https://github.com/ericlibardi/ericlibardi/blob/main/CV%20Eric%20Pereira%20-%20Dev.pdf" title="CV Eric Pereira">here</a>
+- 😄 Check my CV <a href="https://github.com/ericlibardi/ericlibardi/blob/main/CV%20Eric%20Pereira%20-%20FullStack%20Developer.pdf" title="CV Eric Pereira">here</a>
 - 📫 Reach me out on: eric_pereira04@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
